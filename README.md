@@ -10,7 +10,7 @@
 
 <h3 align="left">Summary:</h3>
 
--   👨‍💻 All of my projects are available at [amruta2425.github.io](https://amruta2425.github.io)
+-   👨‍💻 All of my projects are available at [https://amruta25.netlify.app/]
 -   🌱 I'm currently learning backend including Spring and NestJS
 -   💻 Some of the projects I've worked on include:
     -   FakeOS - replicating the iOS operating system using HTML, SCSS, and JavaScript
