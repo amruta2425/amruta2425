@@ -1,6 +1,6 @@
 # amruta2425
 <h1 align="center">Hi 👋, I'm Amruta Marathe</h1>
-<h3 align="center">A passionate Junior FullStack developer from India currently staying in Sydney</h3>
+<h3 align="center">A passionate Junior FullStack developer from India currently working in Australia</h3>
 
 - 📫 How to reach me **amruta.marathe25@gmail.com**
 
@@ -11,7 +11,7 @@
 <h3 align="left">Summary:</h3>
 
 -   👨‍💻 All of my projects are available at [https://amruta25.netlify.app/]
--   🌱 I'm currently learning backend including Spring and NestJS
+
 -   💻 Some of the projects I've worked on include:
     -   FakeOS - replicating the iOS operating system using HTML, SCSS, and JavaScript
     -   Morse Code Translator - Translating Morse Code using HTML, SCSS and JavaScript
